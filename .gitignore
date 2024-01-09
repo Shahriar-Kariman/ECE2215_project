@@ -1,0 +1,6 @@
+# Ignore all files
+*
+# Except .vhd, .md and the gitignore
+!*.vhd
+!*.md
+!.gitignore
